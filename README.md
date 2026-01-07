@@ -25,20 +25,6 @@ No pre-generated figures are included by design.
 
 Running the notebooks top-to-bottom reproduces all figures and checks.
 
-How to Run
-
-Install dependencies:
-
-pip install -r requirements.txt
-
-
-Open the notebooks:
-
-jupyter notebook notebooks/
-
-
-Restart the kernel and run all cells sequentially.
-
 # AQ-KAN Reproducibility Artifact
 
 This repository contains the official reproducibility artifact for the paper:
