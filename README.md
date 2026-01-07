@@ -1,12 +1,41 @@
-├── README.md
-├── LICENSE
-├── ARTIFACT_EVALUATION.md
-│
-├── notebooks/
-│   ├── AQKAN_Mathematical_Experiments.ipynb
-│   └── AQKAN_Unit_Tests.ipynb
-│
-└── requirements.txt
+Repository Structure (Artifact Contents)
+
+This artifact intentionally contains only the files listed below.
+There is no figures/ directory in the submitted artifact.
+All figures are generated at runtime inside the notebooks.
+
+Contents:
+- README.md
+- LICENSE
+- ARTIFACT_EVALUATION.md
+- notebooks/AQKAN_Mathematical_Experiments.ipynb
+- notebooks/AQKAN_Unit_Tests.ipynb
+- requirements.txt
+
+
+Important Note for Reviewers
+
+The artifact is not a software library.
+
+The notebooks themselves are the primary research artifact.
+
+No pre-generated figures are included by design.
+
+Running the notebooks top-to-bottom reproduces all figures and checks.
+
+How to Run
+
+Install dependencies:
+
+pip install -r requirements.txt
+
+
+Open the notebooks:
+
+jupyter notebook notebooks/
+
+
+Restart the kernel and run all cells sequentially.
 
 # AQ-KAN Reproducibility Artifact
 
