@@ -1,5 +1,3 @@
-aq-kan-artifact/
-│
 ├── README.md
 ├── LICENSE
 ├── ARTIFACT_EVALUATION.md
