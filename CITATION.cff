@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this repository or the accompanying notebooks, please cite the AQ-KAN paper."
+title: "Adaptive Quantum-Inspired Kolmogorov–Arnold Networks (AQ-KAN)"
+authors:
+  - family-names: Laxminarayanan
+    given-names: Siddarth
+date-released: 2026-01-01
+version: "1.0.0"
+license: "CC-BY-NC-4.0"
+repository-code: "https://github.com/XXJanusXX/AQ_KAN"
+abstract: >
+  Reproducibility artifact for Adaptive Quantum-Inspired Kolmogorov–Arnold Networks (AQ-KAN).
+  The repository contains self-contained Jupyter notebooks implementing mathematical
+  experiments and unit-test-style validations of boundedness, robustness under drift,
+  dependency recovery, and performance trade-offs.
+keywords:
+  - Kolmogorov–Arnold Networks
+  - Adaptive Systems
+  - Numerical Stability
+  - Quantum-Inspired Methods
+  - Design Science Research
+  - Reproducibility
