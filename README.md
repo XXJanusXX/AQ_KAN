@@ -1,3 +1,5 @@
+License: Creative Commons Attribution–NonCommercial 4.0 International (CC BY-NC 4.0). Commercial use is not permitted without explicit authorization.
+
 Repository Structure (Artifact Contents)
 
 This artifact intentionally contains only the files listed below.
