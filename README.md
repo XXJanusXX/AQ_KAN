@@ -35,6 +35,16 @@ The artifact consists of two Jupyter notebooks that together validate
 the theoretical and methodological claims of the paper through
 mathematical experiments and unit tests.
 
+## Citation
+
+If you use this repository or the accompanying notebooks, please cite:
+
+**Siddarth Laxminarayanan**  
+*Adaptive Quantum-Inspired Kolmogorov–Arnold Networks (AQ-KAN)*, 2026.  
+Reproducibility Artifact.
+
+Citation metadata is provided in `CITATION.cff`.
+
 ---
 
 ## 📂 Contents
