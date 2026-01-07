@@ -74,3 +74,5 @@ mathematical experiments and unit tests.
 ### 1. Install dependencies
 ```bash
 pip install -r requirements.txt
+
+License: Creative Commons Attribution–NonCommercial 4.0 International (CC BY-NC 4.0). Commercial use is not permitted without explicit authorization.
