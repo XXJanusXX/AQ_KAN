@@ -8,9 +8,6 @@ aq-kan-artifact/
 │   ├── AQKAN_Mathematical_Experiments.ipynb
 │   └── AQKAN_Unit_Tests.ipynb
 │
-├── figures/
-│   └── (auto-generated PDFs, optional)
-│
 └── requirements.txt
 
 # AQ-KAN Reproducibility Artifact
