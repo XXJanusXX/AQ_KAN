@@ -1,3 +1,12 @@
+AQ_KAN/
+├── AQ_KAN_Evidence.ipynb
+├── AQKAN_Unit_Tests.ipynb
+├── AQKAN_Mathematical_Experiments.ipynb
+├── AQKAN_Appendix_Reference.pdf   (optional)
+├── CITATION.cff
+├── LICENSE
+└── README.md
+
 License: Creative Commons Attribution–NonCommercial 4.0 International (CC BY-NC 4.0). Commercial use is not permitted without explicit authorization.
 
 Repository Structure (Artifact Contents)
@@ -21,18 +30,6 @@ The focus is on structural validity, stability, and adaptability.
 This repository contains the complete experimental evidence, unit tests, and mathematical validation for the Adaptive Quantum-Inspired Kolmogorov–Arnold Network (AQ-KAN) framework.
 
 AQ-KAN is proposed and evaluated as a computational artifact, not as a task-specific predictive model. The implementation emphasizes architectural invariants, adaptive dynamics, structured dependency modeling, and provable linear complexity, consistent with Design Science Research (DSR) methodology.
-
-📌 Repository Structure
-.
-├── AQ_KAN_Evidence_Notebook.ipynb
-├── AQKAN_Unit_Tests.ipynb
-├── AQKAN_Mathematical_Experiments.ipynb
-├── AGUA_Appendix_Reference.pdf
-├── README.md
-├── LICENSE
-└── CITATION.cff
-
-
 
 Important Note for Reviewers
 
