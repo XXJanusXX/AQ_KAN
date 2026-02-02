@@ -1,3 +1,6 @@
+## Repository Structure (Artifact Contents)
+
+```text
 AQ_KAN/
 ├── AQ_KAN_Evidence.ipynb
 ├── AQKAN_Unit_Tests.ipynb
@@ -6,10 +9,10 @@ AQ_KAN/
 ├── CITATION.cff
 ├── LICENSE
 └── README.md
+```
+
 
 License: Creative Commons Attribution–NonCommercial 4.0 International (CC BY-NC 4.0). Commercial use is not permitted without explicit authorization.
-
-Repository Structure (Artifact Contents)
 
 This artifact intentionally contains only the files listed below.
 There is no figures/ directory in the submitted artifact.
